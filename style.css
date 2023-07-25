@@ -1,0 +1,8 @@
+.dynamicDiv {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dynamicDiv > span {
+    flex: 1;
+  }
